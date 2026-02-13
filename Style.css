@@ -1,0 +1,43 @@
+* {
+    padding: 0;
+    margin: 0;
+    border: 0;
+    font-family: 'Times New Roman' sans-serif;
+}
+
+body {
+    background-color: darksalmon
+}
+
+a {
+    margin: 10px;
+}
+
+img {
+    width: 400px;
+    height: auto;
+    padding: 10px;
+}
+
+h1,
+h2,
+p {
+    margin: 10px;
+}
+
+li,
+p {
+    font-size: 20px;
+    padding: 5px;
+}
+
+ul,
+ol {
+    margin: 10px;
+    padding: 30px;
+}
+
+#homepage {
+    font-size: 20px;
+    margin: 10px;
+}
